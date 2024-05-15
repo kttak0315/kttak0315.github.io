@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.kkaboodjihhofncmmbhfphikhamlhlel</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>[Javascript] 슬라이드 효과 | 네비게이션(nav)에 적용하기 - slideUP(), slideDown()</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6367.201</string>
+	<key>CrAppModeShortcutID</key>
+	<string>kkaboodjihhofncmmbhfphikhamlhlel</string>
+	<key>CrAppModeShortcutName</key>
+	<string>[Javascript] 슬라이드 효과 | 네비게이션(nav)에 적용하기 - slideUP(), slideDown()</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://velog.io/@seoyaon/Javascript-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%9A%A8%EA%B3%BC-%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98nav%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-slideUP-slideDown</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/kitaetak/Library/Application Support/Google/Chrome/-/Web Applications/_crx_kkaboodjihhofncmmbhfphikhamlhlel</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>124.0.6367.201</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>23A334</string>
+	<key>DTSDKName</key>
+	<string>macosx14.0</string>
+	<key>DTXcode</key>
+	<string>1500</string>
+	<key>DTXcodeBuild</key>
+	<string>15A240d</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

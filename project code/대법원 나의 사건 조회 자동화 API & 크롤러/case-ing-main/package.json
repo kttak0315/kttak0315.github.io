@@ -1,0 +1,20 @@
+{
+  "name": "case-ing",
+  "version": "1.0.0",
+  "description": "Case-ing",
+  "main": "index.js",
+  "scripts": {
+    "start": "cypress run",
+    "test": "cypress open",
+    "fixture": "node create-fixtures.js",
+    "clear": "node clear-sheet.js"
+  },
+  "repository": "git@github.com:iicdii/case-ing.git",
+  "author": "Harim Kim <harimkims@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "cypress": "^10.9.0",
+    "dayjs": "^1.11.5"
+  }
+}

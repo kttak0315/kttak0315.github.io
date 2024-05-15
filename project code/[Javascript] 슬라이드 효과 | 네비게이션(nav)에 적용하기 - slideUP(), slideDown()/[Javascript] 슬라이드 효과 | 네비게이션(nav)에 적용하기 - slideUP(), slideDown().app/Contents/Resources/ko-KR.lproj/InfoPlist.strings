@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>[Javascript] 슬라이드 효과 | 네비게이션(nav)에 적용하기 - slideUP(), slideDown()</string>
+	<key>CFBundleName</key>
+	<string>[Javascript] 슬라이드 효과 | 네비게이션(nav)에 적용하기 - slideUP(), slideDown()</string>
+</dict>
+</plist>
