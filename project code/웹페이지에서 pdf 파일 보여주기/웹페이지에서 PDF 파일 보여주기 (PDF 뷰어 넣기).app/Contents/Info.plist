@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.cadjcghbjhicgfpbgmgokmlolbmhjani</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>웹페이지에서 PDF 파일 보여주기 (PDF 뷰어 넣기)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6367.207</string>
+	<key>CrAppModeShortcutID</key>
+	<string>cadjcghbjhicgfpbgmgokmlolbmhjani</string>
+	<key>CrAppModeShortcutName</key>
+	<string>웹페이지에서 PDF 파일 보여주기 (PDF 뷰어 넣기)</string>
+	<key>CrAppModeShortcutURL</key>
+	<string>https://tonhnegod.tistory.com/entry/%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90%EC%84%9C-PDF-%ED%8C%8C%EC%9D%BC-%EB%B3%B4%EC%97%AC%EC%A3%BC%EA%B8%B0-PDF-%EB%B7%B0%EC%96%B4-%EB%84%A3%EA%B8%B0</string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/kitaetak/Library/Application Support/Google/Chrome/-/Web Applications/_crx_cadjcghbjhicgfpbgmgokmlolbmhjani</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>124.0.6367.207</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>23A334</string>
+	<key>DTSDKName</key>
+	<string>macosx14.0</string>
+	<key>DTXcode</key>
+	<string>1500</string>
+	<key>DTXcodeBuild</key>
+	<string>15A240d</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

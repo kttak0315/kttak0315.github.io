@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>HTML, PHP, MySQL 연동해서 웹에서 입력된 값 데이터베이스로 보내기(도서 등록 시스템 간단 구현) - 수피치의 발자취</string>
+	<key>CFBundleName</key>
+	<string>HTML, PHP, MySQL 연동해서 웹에서 입력된 값 데이터베이스로 보내기(도서 등록 시스템 간단 구현) - 수피치의 발자취</string>
+</dict>
+</plist>
